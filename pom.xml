@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.home</groupId>
 	<artifactId>microBanc</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>microBanc</name>
 	<description>Demo project for recrutment</description>
 	<properties>
